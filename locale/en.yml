@@ -1,0 +1,7 @@
+nearata-sensitive-content:
+  admin:
+    permissions:
+      view:
+        label: Can view sensitive content
+  forum:
+    header_title: Sensitive Content
